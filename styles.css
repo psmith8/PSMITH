@@ -1,0 +1,37 @@
+/* styles.css */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+    background: ;
+}
+
+header nav ul {
+    display: flex;
+    justify-content: center;
+    list-style: none;
+    background: #3339ff;
+    padding: 1rem;
+}
+
+    header nav ul li {
+        margin: 0 15px;
+    }
+
+        header nav ul li a {
+            text-decoration: none;
+            color: #f5f5fc;
+        }
+
+main {
+    padding: 20px;
+    text-align: center;
+}
+
+footer {
+    text-align: center;
+    background: #3339ff;
+    color: #f5f5fc;
+    padding: 10px 0;
+}
