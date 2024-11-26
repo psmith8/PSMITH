@@ -35,3 +35,19 @@ footer {
     color: #f5f5fc;
     padding: 10px 0;
 }
+.home {
+    background-color: #f0f8ff; /* Alice Blue */
+}
+
+.about {
+    background-color: #ffe4e1; /* Misty Rose */
+}
+
+.projects {
+    background-color: #e6e6fa; /* Lavender */
+}
+
+.skills {
+    background-color: #fffacd; /* Lemon Chiffon */
+}
+
